@@ -5,6 +5,7 @@
 <h3> About Me </h3>
 
 -  &nbsp; FiveM Developer
+-  &nbsp; I May or May not own a web hosting company, and I no longer do any development
 
 <h3> Tech Stack</h3>
 
