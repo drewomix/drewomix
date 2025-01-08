@@ -8,7 +8,7 @@
 
 <h3> Tech Stack</h3>
 
-- &nbsp; Lua | JavaScript | HTML | CSS
+- &nbsp; React.JS | JavaScript | Next.JS | CSS | HTML | C++
 - &nbsp; MySQL | Xampp
 - &nbsp; Visual Studio Code | GitHub
 
